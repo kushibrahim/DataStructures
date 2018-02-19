@@ -1,0 +1,10 @@
+NOT: Huffman aðacý sýnýflarý ve düðüm sýnýflarý hocanýn derste yaptýðý örneklerden alýnmýþtýr.
+
+NOT2: Dosyayý sýkýþtýrdýktan sonra bit.bat ve tablo.txt'ten okunup ekrana yazdýrýlmasý gereken kod parçacýðý internet sitelerinde
+ayný kodlar olduðundan ve kolayca bulunabilidiðinden, kopya ödev muamelesi görmemesi için bizim yazdýðýmýz kod parçacýðýnda
+bulunmamaktadýr.Bizim yazdýðýmýz kod parçacýðýnda sýkýþtýrdýðýmýz txt dosyasýný dosya açma iþlemleri kullanarak ekrana yazdýrýyoruz.
+
+NOT3:Yazdýðýmýz kodlar istediðimiz metin dosyasýný kayýpsýz bir þekilde sýkýþtýrmaktadýr.
+4.548 bayt olan deneme.txt sýkýþtýrýldýktan sonra 1358 bayt yer kaplamaktadýr.
+
+   
